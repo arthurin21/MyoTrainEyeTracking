@@ -1,0 +1,3 @@
+sep=,
+
+Time, LeftPupilDiameter, RightPupilDiameter, LeftPupilPosX, LeftPupilPosY, RightPupilPosX, RightPupilPosY, LeftGazeOriginPosX, LeftGazeOriginPosY, LeftGazeOriginPosZ, RightGazeOriginPosX, RightGazeOriginPosY, RightGazeOriginPosZ, LeftGazePositionX, LeftGazePositionY, LeftGazePositionZ, RightGazePositionX, RightGazePositionY, RightGazePositionZ, LeftEyeOpen, RightEyeOpen, GazeObjectName, GazeObjectPosX, GazeObjectPosY, GazeObjectPosZ, headPosX, headPosY, headPosZ
